@@ -1,5 +1,5 @@
 ![Frame 1](https://github.com/user-attachments/assets/b9f34aed-2168-431a-9486-7585aa9034dc)
-![Dart Version](https://img.shields.io/badge/dart-%3E%3D2.12-brightgreen) ![Flutter Version](https://img.shields.io/badge/flutter-v3.23.0-blue) ![License](https://img.shields.io/badge/license-MIT-orange) ![Platform](https://img.shields.io/badge/platform-Android%20|%20iOS%20-blue) ![GitHub Stars](https://img.shields.io/github/stars/whois-kami/clothify?style=social) ![Last Commit](https://img.shields.io/github/last-commit/whois-kami/clothify)
+![Dart Version](https://img.shields.io/badge/dart-%3E%3D2.12-brightgreen) ![Flutter Version](https://img.shields.io/badge/flutter-v3.23.0-blue) ![License](https://img.shields.io/badge/license-MIT-orange) ![Platform](https://img.shields.io/badge/platform-Android%20|%20iOS%20-blue) ![GitHub Stars](https://img.shields.io/github/stars/kmdshi/clothify?style=social) ![Last Commit](https://img.shields.io/github/last-commit/kmdshi/clothify)
 # Clothify
 
 ## Description
@@ -111,7 +111,7 @@ Make sure these environment variables are properly set before running the applic
 
 1. Clone the repository:
   ```
-  git clone https://github.com/whois-kami/clothify.git
+  git clone https://github.com/kmdshi/clothify.git
   ```
   2. Navigate to the project directory:
   ```
@@ -142,6 +142,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For any questions, issues, or suggestions, please reach out to the project maintainer:
 
-- **GitHub:** [whois-kami](https://github.com/whois-kami)
+- **GitHub:** [kmdshi](https://github.com/kmdshi)
 - **telegram** - [Contact me](https://t.me/kmdshi)<br />
-- **Project Link** : [Share project link](https://github.com/whois-kami/clothify)
+- **Project Link** : [Share project link](https://github.com/kmdshi/clothify)
